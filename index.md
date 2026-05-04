@@ -2,11 +2,11 @@
 layout: default
 title: Home
 ---
-# Hi, I am Your Name.
+# Hi, I am Devendra.
 
 I write about technology, ideas, and things I am learning.
 
-This site is intentionally minimal. I will keep updating it over time.
+You can reach me at neeldesai63@gmail.com
 
 [Read all posts →]({{ '/posts/' | relative_url }})
 
