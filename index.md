@@ -4,7 +4,9 @@ title: Home
 ---
 # Hi, I am Devendra.
 
-I write about technology, ideas, and things I am learning.
+I made this blog to write my thoughts down. Someone told me this helps organize them..... I dont know.. but lets give it a shot. 
+
+If you stumble across this page by accident, you gotta go touch grass man, but also before that I have got some interesting stuff so check it out.
 
 You can reach me at neeldesai63@gmail.com
 
