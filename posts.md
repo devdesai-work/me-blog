@@ -11,6 +11,9 @@ permalink: /posts/
   <li>
     <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% if post.excerpt %}
+    <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
