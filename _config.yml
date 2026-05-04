@@ -1,0 +1,24 @@
+title: Devendra Desai
+email: devdesai197@gmail.com
+description: Minimal personal website and blog.
+url: "https://devdesai-work.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: /posts/:title/
+timezone: Asia/Kolkata
+
+# GitHub Pages compatible theme approach (custom layouts/CSS, no remote theme required)
+plugins:
+  - jekyll-feed
+
+# Keep things clean and minimal
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
