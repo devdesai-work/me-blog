@@ -2,7 +2,7 @@ title: Devendra Desai
 email: devdesai197@gmail.com
 description: Minimal personal website and blog.
 url: "https://devdesai-work.github.io"
-baseurl: ""
+baseurl: "/me-blog"
 markdown: kramdown
 permalink: /posts/:title/
 timezone: Asia/Kolkata
